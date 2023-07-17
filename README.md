@@ -1,0 +1,1 @@
+# simple-js-mini-projects
