@@ -1,1 +1,1 @@
-# simple-js-mini-projects
+# simple-js-mini-calculator
